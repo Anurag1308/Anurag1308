@@ -37,8 +37,8 @@ Coming soon...
 ---
 
 ### 🔗 Connect With Me  
-📩 **Mail:** your-email  
-🔗 **LinkedIn:** (Add your link here)
+📩 **Mail:** agarwalanurag61@gmail.com 
+🔗 **LinkedIn:** https://www.linkedin.com/in/anurag-a-2a5b2a1b1/
 
 ---
 
