@@ -28,11 +28,13 @@ Coming soon...
 
 ---
 
-### 📈 GitHub Stats  
+### 📈 GitHub Stats
+
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag1308&show_icons=true" height="160"/>
+  <img src="https://anurag-github-readme-stats.vercel.app/api?username=anurag1308&show_icons=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag1308" height="160"/>
 </p>
+
 
 ---
 
